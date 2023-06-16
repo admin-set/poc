@@ -6,7 +6,10 @@
 
 ```
 ├── Nacos未授权访问
-│   └── Nacos未授权访问.py
+│   └── Nacos未授权访问.py
+├── README.md
+├── 孚盟云 AjaxMethod.ashx SQL注入
+│   └── 孚盟云AjaxMethod.ashxSQL注入.py
 └── 海康威视iVMS综合安防系统任意文件上传
     └── 海康威视iVMS综合安防系统任意文件上传.py
 ```
