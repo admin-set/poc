@@ -1,6 +1,6 @@
 # 💻自述文件
 
-> 一个菜🐶的poc 库，主要用来编写python脚本，脚本均可使用后才会发布。
+> 一个菜🐶的poc 库，脚本由python撰写，主要是提升自己python能力
 
 ### 📁Tree
 
@@ -8,6 +8,8 @@
 ├── Nacos未授权访问
 │   └── Nacos未授权访问.py
 ├── README.md
+├── 华夏ERP未授权漏洞「CNVD-2020-63964」
+│   └── CNVD-2020-63964.py
 ├── 孚盟云 AjaxMethod.ashx SQL注入
 │   └── 孚盟云AjaxMethod.ashxSQL注入.py
 └── 海康威视iVMS综合安防系统任意文件上传
