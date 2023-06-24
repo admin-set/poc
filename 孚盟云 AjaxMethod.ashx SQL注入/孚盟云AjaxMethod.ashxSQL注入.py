@@ -26,6 +26,7 @@ def check(url):
         ## 对返回参数进行判断匹配的相关参数就返回存在漏洞，要不然就返回不存在漏洞
         if '字符串' in return_data.text and 'SELECT' in return_data.text and return_data.status_code == 500:
             print(f'✅  存在孚盟云SQL注入漏洞！！！当前URL为： {url} ')
+            
         else:
             print(f'❌  不存孚盟云SQL注入漏洞！！！{url} ')
     except Exception as e:
