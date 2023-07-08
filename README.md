@@ -8,6 +8,8 @@
 ├── Nacos未授权访问
 │   └── Nacos未授权访问.py
 ├── README.md
+├── Smartbi内置用户登陆绕过
+│   └── Smartbi内置用户登陆绕过.py
 ├── 华夏ERP未授权漏洞「CNVD-2020-63964」
 │   └── CNVD-2020-63964.py
 ├── 金和OA-GetTreeDate-SQL注入
