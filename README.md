@@ -10,12 +10,19 @@
 ├── README.md
 ├── Smartbi内置用户登陆绕过
 │   └── Smartbi内置用户登陆绕过.py
+├── 用友 NC Cloud 远程代码执行
+│   └── 用友 NC Cloud 远程代码执行漏洞.py
+├── 蓝凌EIS体验系统用户信息ShowUserInfo_aspx_sql注入
+│   ├── 蓝凌EIS体验系统用户信息ShowUserInfo_aspx_sql注入.py
+│   └── 蓝凌EIS体验系统用户信息ShowUserInfo_aspx_sql注入「sqlmap版本」.py
 ├── 华夏ERP未授权漏洞「CNVD-2020-63964」
 │   └── CNVD-2020-63964.py
 ├── 金和OA-GetTreeDate-SQL注入
 │   └── 金和OA-GetTreeDate-SQL注入.py
 ├── 孚盟云 AjaxMethod.ashx SQL注入
 │   └── 孚盟云AjaxMethod.ashxSQL注入.py
+├── 飞企互联-FE_ProxyServletUtil任意文件读取漏洞
+│   └── 飞企互联-FE_ProxyServletUtil任意文件读取漏洞.py
 ├── 联软安界UniSDP软件定义边界系统命令执行
 │   └── 联软安界UniSDP软件定义边界系统rce.py
 ├── 海康威视iVMS综合安防系统任意文件上传
